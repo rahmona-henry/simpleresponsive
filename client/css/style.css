@@ -23,6 +23,37 @@ p {
   margin-bottom: 20px;
 }
 
-main-container {
+.main-container {
   width: 100%;
+  margin: 0 auto;
+}
+
+.single-row {
+  width: 100%;
+}
+
+/* Header */
+
+.col-left {
+  width: 63%;
+}
+
+.col-left img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+.col-right {
+  width: 32%;
+}
+
+.col-left, .col-right {
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+
+}
+.clear-fix
+{
+  clear: both;
 }
