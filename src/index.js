@@ -1,4 +1,4 @@
-
-$(document).ready(function(){
-  alert("Welcome to Loso with jquery")
-});
+//
+// $(document).ready(function(){
+//   alert("Welcome to Loso with jquery")
+// });
